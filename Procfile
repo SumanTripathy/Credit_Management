@@ -1,1 +1,1 @@
-web: gunicorn creditmanagement.wsgi --log-file
+web: gunicorn creditmanagement.wsgi --log-file -
